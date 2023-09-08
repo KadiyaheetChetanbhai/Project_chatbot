@@ -65,10 +65,10 @@ public class Main {
 
         System.out.println("enter  question");
 /*
-        // for converting
+        // for converting speech to text
        Configuration configuration = new Configuration();
         configuration.setAcousticModelPath("file:///D:/efiles/cmusphinx-en-in-5.2/acousticmodel/en_in.cd_cont_5000");
-        configuration.setDictionaryPath("file:///D:/efiles/cmusphinx-en-in-5.2/dicitionarymodel/en_in.dic");
+        configuration.setDictionaryPath("file:///D:/efiles/cmusphinx-en-in-5.2/dicitionarymodel/en_in.dic");                // kinda not recognzing correctly.
         configuration.setLanguageModelPath("file:///D:/efiles/cmusphinx-en-in-5.2/languagemodel/en-us.lm.bin");
 
 
